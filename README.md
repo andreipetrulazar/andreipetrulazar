@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreipetrulazar
-- 👀 I’m interested in web development :) 
+- 👀 I’m interested in web development 👀
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me : andreipetrulazar@gmail.com
 
