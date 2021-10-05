@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreipetrulazar
+- 👋 Hi, I’m #Andrei
 - 👀 I’m interested in web development 👀
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 📫 How to reach me : andreipetrulazar@gmail.com
