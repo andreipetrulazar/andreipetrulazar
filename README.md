@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andrei-Petru
+- 👋 Hi, I’m Andrei-Petru Lazar
 - 👀 I’m interested in web development 👀
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Ract
 - 📫 How to reach me : andreipetrulazar@gmail.com
 
 <!---
